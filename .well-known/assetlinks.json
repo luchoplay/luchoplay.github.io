@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uy.delicias.ceci",
+      "sha256_cert_fingerprints": ["53:1D:17:11:AB:72:61:63:35:2B:31:AD:95:C8:3F:B2:55:DD:A1:F2:CC:E9:D9:AA:DF:D8:2F:F5:79:66:FA:AC"]
+    }
+  }
+]
